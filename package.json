@@ -1,0 +1,11 @@
+{
+  "name": "basic_server",
+  "version": "1.0.0",
+  "description": "a basic node.js server to test connections n stuff",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gorillabull",
+  "license": "UNLICENSED"
+}
